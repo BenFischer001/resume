@@ -60,7 +60,7 @@ body{
 }
 
 
-@media (max-width: 1000px) {
+@media (max-width: 1020px) {
     .smallScreen { display: inline-block; }
     .bigScreen { display: none; }
 }
